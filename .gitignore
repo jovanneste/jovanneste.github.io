@@ -1,0 +1,37 @@
+.DS_Store
+
+# Hugo output directory
+/public/
+
+# Hugo themes directory
+/themes/
+
+# .DS_Store files (macOS)
+.DS_Store
+
+# Temporary files
+*.bak
+*.swp
+
+# Hugo cache
+/resources/_gen
+/resources/_gen-assets
+
+# Hugo server public directory
+/resources/_gen/images/
+/resources/_gen/assets/
+
+# Hugo's module cache directory (if using modules)
+/hugo_modules
+
+# Environment-specific files (e.g., .env)
+.env
+
+# Hugo-generated files (if any)
+/resources/_gen/
+
+# Ignore Netlify configuration files (if not using Netlify)
+/netlify.toml
+
+# Ignore GitHub Actions workflows (if not using GitHub Actions)
+/.github/workflows/
