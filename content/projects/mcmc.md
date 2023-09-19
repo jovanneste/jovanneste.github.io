@@ -4,7 +4,7 @@ draft = false
 image = "projects/mcmc3.png"
 date = "2021-05-23T10:16:56+01:00"
 title = "Natural language decryption using MCMC"
-weight = 3
+weight = 2
 +++
 
 Using an advanced Markov Chain Monte Carlo sampling algorithm, I built an agent capable of decrypting encrypted texts. 

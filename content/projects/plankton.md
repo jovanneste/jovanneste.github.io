@@ -4,7 +4,7 @@ draft = false
 image = "projects/plankton.webp"
 date = "2023-04-17T10:16:56+01:00"
 title = "A convolutional neural network for precise plankton classification"
-weight = 1
+weight = 6
 +++
 
 This project focused on developing a robust CNN-based solution capable of classifying images of plankton into one of 12 distinct classes. 

@@ -4,7 +4,7 @@ draft = false
 image = "https://www.gymlibrary.dev/_images/mountain_car.gif"
 date = "2022-12-17T10:16:56+01:00"
 title = "OpenAI mountain car agent"
-weight = 0
+weight = 5
 +++
 
 Built a Q-learning agent capable of completing the [mountain car game](https://www.gymlibrary.dev/environments/classic_control/mountain_car/). 

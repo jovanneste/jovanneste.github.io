@@ -4,7 +4,7 @@ draft = false
 image = "projects/emo3.png"
 date = "2023-03-24T10:16:56+01:00"
 title = "Detecting and explaining emotions in video advertisements"
-weight = 3
+weight = 0
 +++
 
 This project aimed to create a model capable of detecting and explaining emotions in video advertisements. The final framework consists of two main stages: emotion detection and explanation generation. 

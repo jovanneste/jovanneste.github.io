@@ -4,7 +4,7 @@ draft = false
 image = "projects/sock2.webp"
 date = "2021-05-28T10:16:56+01:00"
 title = "TCP network connection using Python sockets"
-weight = 8
+weight = 7
 +++
 
 Built a solution that empowers developers to establish, manage, and communicate over TCP/IP networks effortlessly using Python's socket library[^1]. 
