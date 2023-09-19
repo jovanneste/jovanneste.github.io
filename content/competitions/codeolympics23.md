@@ -1,7 +1,7 @@
 +++
 showonlyimage = false
 draft = false
-image = "img/portfolio/a4-paper.jpg"
+image = "projects/co.jpg"
 date = "2022-05-23T10:16:56+01:00"
 title = "Code Olympics 2023"
 weight = 0
@@ -58,6 +58,6 @@ List of awards received for this hackathlon.
    - Simple POV shooter game. 
 
 
-[^1]: JPMorgan, Morgan Stanley, SAS, Verint, UofG School of Computing Science.
+[^1]: JPMorgan, Morgan Stanley, SAS, ShowCode, UofG School of Computing Science.
 [^2]: Challenge set by UofG School of Computing Science; £100 prize.
 [^3]: Challenge set by SAS; £100 prize.

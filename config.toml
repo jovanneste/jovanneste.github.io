@@ -1,7 +1,6 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
-
+title = 'Joachim Vanneste'
 theme = ["hugo-embed-pdf-shortcode", "hugo-creative-portfolio-theme"]
 enableInlineShortcodes = true
 
@@ -10,7 +9,7 @@ enableInlineShortcodes = true
   # Use custom.css for your custom styling
   style = "pink"
   description = "Describe your website"
-  copyright = "&copy;2016 Your name or company"
+  copyright = "&copy;2023 Joachim Vanneste"
   sidebarAbout = [
     "I am a creative illustrator and graphic designer with more than 10 years of experience.",
     "Originally from Toronto, currently based in London."
@@ -57,14 +56,8 @@ enableInlineShortcodes = true
   url = "publications/"
 
   [params.social]
-  facebook      = "full page or profile url in facebook"
-  googleplus    = "full profile url in googleplus"
-  email         = "email@example.com"
-  twitter       = "full profile url in twitter"
-  linkedin      = "full profile url in linkedin"
+  email         = "joachimvanneste1@example.com"
+  linkedin      = "https://www.linkedin.com/in/joachim-vanneste/"
   stackoverflow = "full profile url in stackoverflow"
-  instagram     = "full profile url in instagram"
-  github        = "full profile url in github"
+  github        = "https://github.com/jovanneste"
   gitlab        = "full profile url in gitlab"
-  youtube       = "full profile url in youtube"
-  whatsapp      = "wa.me service link"

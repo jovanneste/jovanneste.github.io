@@ -8,7 +8,7 @@ weight = 6
 +++
 
 This project focused on developing a robust CNN-based solution capable of classifying images of plankton into one of 12 distinct classes. 
-
+<!--more-->
 ---
 
 #### CNN
