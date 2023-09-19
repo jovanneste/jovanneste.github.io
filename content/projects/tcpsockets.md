@@ -1,7 +1,7 @@
 +++
 showonlyimage = false
 draft = false
-image = "projects/sock2.webp"
+image = "projects/sock.jpg"
 date = "2021-05-28T10:16:56+01:00"
 title = "TCP network connection using Python sockets"
 weight = 7

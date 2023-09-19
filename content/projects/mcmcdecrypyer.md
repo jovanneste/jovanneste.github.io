@@ -1,7 +1,7 @@
 +++
 showonlyimage = false
 draft = false
-image = "projects/mcmc3.png"
+image = "projects/mcmc7.png"
 date = "2021-05-23T10:16:56+01:00"
 title = "Natural language decryption using MCMC"
 weight = 2

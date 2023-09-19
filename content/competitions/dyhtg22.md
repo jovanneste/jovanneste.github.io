@@ -4,7 +4,7 @@ draft = false
 image = "projects/dyhtg1.png"
 date = "2022-05-23T10:16:56+01:00"
 title = "DYHTG Hackathlon 2022"
-weight = 2
+weight = 0
 +++
 
 Competed in several challenges set by Morgan Stanley and JPMorgan. 

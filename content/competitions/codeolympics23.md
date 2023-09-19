@@ -4,7 +4,7 @@ draft = false
 image = "projects/co.jpg"
 date = "2022-05-23T10:16:56+01:00"
 title = "Code Olympics 2023"
-weight = 0
+weight = 3
 +++
 
 Designed and developed reinforcement learning agents that successfully tackled multiple challenges, ultimately contributing to the overall victory of my team.

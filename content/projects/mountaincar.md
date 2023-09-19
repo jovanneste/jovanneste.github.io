@@ -1,5 +1,5 @@
 +++
-showonlyimage = false
+showonlyimage = true
 draft = false
 image = "https://www.gymlibrary.dev/_images/mountain_car.gif"
 date = "2022-12-17T10:16:56+01:00"
