@@ -1,8 +1,9 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
-theme = 'hugo-creative-portfolio-theme'
 
+theme = ["hugo-embed-pdf-shortcode", "hugo-creative-portfolio-theme"]
+enableInlineShortcodes = true
 
 [params]
   # Style options: default (pink), blue, green, pink, red, sea, violet
