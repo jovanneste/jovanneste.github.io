@@ -1,10 +1,11 @@
-.DS_Store
-
 # Hugo output directory
 /public/
 
 # Hugo themes directory
 /themes/
+
+# Hugo static directory
+/static/
 
 # .DS_Store files (macOS)
 .DS_Store
