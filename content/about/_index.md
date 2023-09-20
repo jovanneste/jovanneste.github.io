@@ -26,6 +26,6 @@ I am a [Your Profession] based in [Your Location], and I have a passion for [You
 > : - Year long project with Avaloq as part of my third year  
 > : - Created and maintained a .NET onboarding tool to calculate capital gain tax implications to be used in Avaloq’s [banking suite](https://www.avaloq.com/about-us/press-releases/the-avaloq-banking-suite-enhances-the-user-experience-of-maybank-premier-clients-in-singapore)
 
-> University of Glasgow  
+> UofG School of Computing Science
 > : - Year long project with Glasgow University creating a web-app for myCampus as part of my second year
 > : - Worked in a small team designing and implementing a Django application to be used by Glasgow students
