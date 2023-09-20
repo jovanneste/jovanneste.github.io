@@ -9,6 +9,9 @@ weight = 6
 
 This project focused on developing a robust CNN-based solution capable of classifying images of plankton into one of 12 distinct classes. 
 <!--more-->
+
+> [View code on Colab](https://colab.research.google.com/drive/1RNCGdTN7TkgZv5GmlzaXlacT2TucSDFB?usp=sharing)
+
 ---
 
 #### CNN
@@ -21,7 +24,6 @@ This task was made more complex by large class imbalances and a small [dataset](
 I tried to improve on my model by adding a multihead self-attention layer to the model. This network can be found [here](https://colab.research.google.com/drive/1RNCGdTN7TkgZv5GmlzaXlacT2TucSDFB?usp=sharing#scrollTo=s3MZ5Hq5iULk), although it did not improve the classification accuracy. 
 
 
-> [View code on Colab](https://colab.research.google.com/drive/1RNCGdTN7TkgZv5GmlzaXlacT2TucSDFB?usp=sharing)
 
 ---
 
