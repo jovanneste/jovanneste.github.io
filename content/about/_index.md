@@ -1,5 +1,5 @@
 +++
-date = "2016-11-05T21:05:33+05:30"
+date = "2023-09-12T21:05:33+05:30"
 title = "About me"
 +++
 
@@ -9,16 +9,25 @@ I am a [Your Profession] based in [Your Location], and I have a passion for [You
 This is the text that will appear on the right side of the image.
 {{< /image-text >}}
 
-
 #### Education
 ---
-> University of Glasgow (2019 -- present)
+> University of Glasgow
 > : - Working towards an MSci in Computing Science  
-> : - Predicted first
+> : - I am predicted to achieve a first-class degree
 
 #### Experience
 ---
 > Cadence Design Systems 
-> : - 4 month internship as software developer  
-> : - Designed and developed several new features inside [VSE](https://www.cadence.com/en_US/home/tools/custom-ic-analog-rf-design/virtuoso-studio.html)
-> : -  Worked in a small sub-team to fix customer bugs, crashes and implement change requests  
+> : - Four month internship as software developer  
+> : - Designed and developed several new features inside [Virtuoso](https://www.cadence.com/en_US/home/tools/custom-ic-analog-rf-design/virtuoso-studio.html)
+> : -  Worked in a small sub-team to fix customer bugs, crashes and successfully implement numerous change requests  
+
+> Avaloq 
+> : - Year long project with Avaloq as part of my third year  
+> : - Created and maintained a .NET onboarding tool to calculate capital gain tax implications to be used in Avaloq’s [banking suite](https://www.avaloq.com/about-us/press-releases/the-avaloq-banking-suite-enhances-the-user-experience-of-maybank-premier-clients-in-singapore)
+
+> University of Glasgow  
+> : - Year long project with Glasgow University creating a web-app for myCampus as part of my second year
+> : - Worked in a small team designing and implementing a Django application to be used by Glasgow students
+
+Download my CV {{< download cv.pdf >}} here{{< /download >}}.
