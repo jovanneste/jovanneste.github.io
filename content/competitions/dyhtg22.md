@@ -11,7 +11,7 @@ Competed in several challenges set by Morgan Stanley and JPMorgan.
 <!--more-->
 --- 
 
-#### Hackathlon 
+#### Description 
 Orginised by the University of Glasgow, 'Do You Have The Guts?' is a yearly hackathlon held in October. Several companies[^1] propose challenges and judge submitted solutions.
 
 ---

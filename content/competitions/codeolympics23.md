@@ -11,7 +11,7 @@ Designed and developed reinforcement learning agents that successfully tackled m
 <!--more-->
 --- 
 
-#### Hackathlon 
+#### Description 
 Orginised by the University of Glasgow, the Code Olympics is a 24 hour long hackathlon where a variety of companies[^1] present challenges to be completed in groups of four. With over 50 groups in attendance, this event serves as a vibrant platform for collaboration and innovation in the world of coding and technology. 
 
 ---

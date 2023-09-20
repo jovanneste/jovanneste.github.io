@@ -20,8 +20,8 @@ My agent performs a discrete state-space search with simulated annealing to find
 
 > [View code on GitHub](https://github.com/jovanneste/mondrianTilingStateSearch)
 
-{{< embed-pdf url="./2460800v.pdf" >}}
-
-
+{{< download 2460800v.pdf >}}
+Download this file
+{{< /download >}}
 
 [^1]: C. Dalfó, M.A. Fiol, N. López, 2021, Pages 64-73, ISSN 0166-218X.

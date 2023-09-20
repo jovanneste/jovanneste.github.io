@@ -1,0 +1,10 @@
+{{- with .Get 0 }}
+  {{- $href := . }}
+  {{- $content := . }}
+  {{- with $.Inner }}
+    {{- $content = strings.Trim . "\r\n" }}
+  {{- end }}
+  <a href="{{ $href }}" download>{{ $content }}</a>
+{{- else }}
+  {{- errorf "The %q shortcode requires a single positional parameter, a URL. See %s" .Name .Position }}
+{{- end -}}
