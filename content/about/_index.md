@@ -3,10 +3,10 @@ date = "2023-09-12T21:05:33+05:30"
 title = "About me"
 +++
 
-I am a [Your Profession] based in [Your Location], and I have a passion for [Your Interests or Expertise]. With [X] years of experience in [Your Field], I have had the opportunity to work on a wide range of projects and challenges.
+
 
 {{< image-text image="me.jpg" alt="Image Alt Text" width="200px" margin="20px" >}}
-This is the text that will appear on the right side of the image.
+I am a [Your Profession] based in [Your Location], and I have a passion for [Your Interests or Expertise]. With [X] years of experience in [Your Field], I have had the opportunity to work on a wide range of projects and challenges.
 {{< /image-text >}}
 
 #### Education
@@ -29,5 +29,3 @@ This is the text that will appear on the right side of the image.
 > University of Glasgow  
 > : - Year long project with Glasgow University creating a web-app for myCampus as part of my second year
 > : - Worked in a small team designing and implementing a Django application to be used by Glasgow students
-
-Download my CV {{< download cv.pdf >}} here{{< /download >}}.
