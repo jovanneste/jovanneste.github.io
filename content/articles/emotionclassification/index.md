@@ -17,6 +17,6 @@ I'm excited to announce that I've recently submitted an article to SIGIR (Specia
 #### Paper 
 An in-depth reseach paper based of my fourth year project (discussed in-depth [here])
 
-A comprehensive research paper stemming from my fourth-year project (discussed in-depth [here](/content/projects/emotionclassificationfromvideos.md)).
+A comprehensive research paper stemming from my fourth-year project (discussed in-depth [here](/projects/emotionclassificationfromvideos)).
 
 [^1]: This was also the basis for a research paper submitted to SIGIR 2023.
