@@ -1,7 +1,7 @@
 +++
 showonlyimage = false
 draft = false
-image = "projects/sac1.jpg"
+image = "projects/sentimentanalysis.jpg"
 date = "2022-08-02T10:16:56+01:00"
 title = "Sentiment analysis classifier"
 weight = 4

@@ -1,7 +1,7 @@
 +++
 showonlyimage = true
 draft = false
-image = "projects/mondrian.webp"
+image = "projects/mondriantile.jpg"
 date = "2022-12-08T10:16:56+01:00"
 title = "Mondrian tile problem solver"
 weight = 3

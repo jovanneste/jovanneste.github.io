@@ -1,7 +1,7 @@
 +++
 showonlyimage = false
 draft = false
-image = "projects/emo3.png"
+image = "projects/emotionclassification.png"
 date = "2023-03-24T10:16:56+01:00"
 title = "Detecting and explaining emotions in video advertisements"
 weight = 0

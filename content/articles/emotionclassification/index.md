@@ -1,7 +1,7 @@
 +++
 showonlyimage = false
 draft = false
-image = "projects/sigir.png"
+image = "projects/sigir2.png"
 date = "2023-03-24T10:16:56+01:00"
 title = "Explaining emotions in video advertisements paper"
 weight = 0
