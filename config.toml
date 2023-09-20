@@ -51,12 +51,12 @@ theme = 'hugo-creative-portfolio-theme'
   url = "competitions/"
 
   [[params.navlinks]]
-  name = "Publications"
-  url = "publications/"
+  name = "Articles"
+  url = "articles/"
 
   [params.social]
   email         = "joachimvanneste1@example.com"
   linkedin      = "https://www.linkedin.com/in/joachim-vanneste/"
-  stackoverflow = "full profile url in stackoverflow"
+  # stackoverflow = "full profile url in stackoverflow"
   github        = "https://github.com/jovanneste"
-  gitlab        = "full profile url in gitlab"
+  # gitlab        = "full profile url in gitlab"
