@@ -24,7 +24,7 @@ I am a [Your Profession] based in [Your Location], and I have a passion for [You
 
 > Avaloq 
 > : - Year long project with Avaloq as part of my third year  
-> : - Created and maintained a .NET onboarding tool to calculate capital gain tax implications to be used in Avaloq’s [banking suite](https://www.avaloq.com/about-us/press-releases/the-avaloq-banking-suite-enhances-the-user-experience-of-maybank-premier-clients-in-singapore)
+> : - Created and maintained a .NET onboarding tool to calculate capital gain tax implications to be used in [Avaloq’s](https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwik5u-LrbuBAxXE7e0KHYY8COQYABAAGgJkZw&ae=2&gclid=Cj0KCQjw06-oBhC6ARIsAGuzdw13xpz3DRjNDGskDvK9D0x8qwT_DCjNnziYwV32mHw7RZXFq7RN9CoaAuLDEALw_wcB&ohost=www.google.com&cid=CAESbeD2hz_8iipH6fhjsIil3_aIunLj-vCTotuhzWBO827PWqbVrhh8_6Qz_ny4mUyrC1vHuTCVnaSRXKMFlx06529O5NeKS3tFuTWRtWHFxgagJUFSIMPQYhbGav5UNlszARp5ZoXgWr54l_34-0Q&sig=AOD64_3VuFaBckDSzRN9WYq1k9gWXeOvSg&q&adurl&ved=2ahUKEwj7seiLrbuBAxWiXUEAHVs_CDwQ0Qx6BAgOEAE&nis=8&dct=1) banking suite
 
 > UofG School of Computing Science
 > : - Year long project with Glasgow University creating a web-app for myCampus as part of my second year
