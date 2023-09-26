@@ -9,11 +9,6 @@ title = "About me"
 I am a [Your Profession] based in [Your Location], and I have a passion for [Your Interests or Expertise]. With [X] years of experience in [Your Field], I have had the opportunity to work on a wide range of projects and challenges.
 {{< /image-text >}}
 
-#### Education
----
-> University of Glasgow
-> : - Working towards an MSci in Computing Science  
-> : - I am predicted to achieve a first-class degree
 
 #### Experience
 ---
@@ -21,6 +16,7 @@ I am a [Your Profession] based in [Your Location], and I have a passion for [You
 > : - Four month internship as software developer  
 > : - Designed and developed several new features inside [Virtuoso](https://www.cadence.com/en_US/home/tools/custom-ic-analog-rf-design/virtuoso-studio.html)
 > : -  Worked in a small sub-team to fix customer bugs, crashes and successfully implement numerous change requests  
+> : -  Led regular team meetings to keep all team members informed of project progress, priorities, and upcoming tasks
 
 > Avaloq 
 > : - Year long project with Avaloq as part of my third year  
@@ -29,3 +25,9 @@ I am a [Your Profession] based in [Your Location], and I have a passion for [You
 > UofG School of Computing Science
 > : - Year long project with Glasgow University creating a web-app for myCampus as part of my second year
 > : - Worked in a small team designing and implementing a Django application to be used by Glasgow students
+
+#### Education
+---
+> University of Glasgow
+> : - Working towards an MSci in Computing Science  
+> : - I am predicted to achieve a first-class degree

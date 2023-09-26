@@ -10,8 +10,7 @@ theme = 'hugo-creative-portfolio-theme'
   description = "My website"
   copyright = "&copy;2023 Joachim Vanneste"
   sidebarAbout = [
-    "I am a fifth year student working towards a MSci in Computing Science at the University of Glasgow.",
-    "the"
+    "I am a fifth year student working towards an MSci in Computing Science at the University of Glasgow."
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
