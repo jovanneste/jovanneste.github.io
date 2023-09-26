@@ -7,12 +7,12 @@ title = "Generalising LIME to video models article"
 weight = 0
 +++
 
-Article published to Medium.com around XAI
+Article published to Medium.com's eXplainable AI stories. 
 <!--more--> 
 
 ---
 
-I've recently submitted an article to SIGIR (Special Interest Group on Information Retrieval), one of the most prestigious conferences in the field. Stay tuned for updates on its status and potential publication!
-
 #### Description 
-A comprehensive research paper stemming from my fourth-year project (discussed in-depth [here](/projects/emotionclassificationfromvideos)). This paper explores emotion classification models for video data and proposes a framework combining this with explainable AI. The outcome is a two-step framework designed to demostrate to users exactly why a certain video has been classifed a certain way. 
+An in-depth dive into eXplainable AI (XAI) and how to generalise LIME for video model interpretability. This article is the first on the website around XAI on video data. 
+
+> [View article on Medium](https://medium.com/@joachimvanneste1/explainable-ai-adapting-lime-for-video-model-interpretation-74c85502b0d0) 
