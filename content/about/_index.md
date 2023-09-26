@@ -3,12 +3,19 @@ date = "2023-09-12T21:05:33+05:30"
 title = "About me"
 +++
 
->{{< download cv.pdf >}}Download resume{{< /download >}}
+---
 
-{{< image-text image="me.jpg" alt="Image Alt Text" width="200px" margin="20px" >}}
-I am a [Your Profession] based in [Your Location], and I have a passion for [Your Interests or Expertise]. With [X] years of experience in [Your Field], I have had the opportunity to work on a wide range of projects and challenges.
+Hello
+
+
+{{< image-text image="me.jpg" alt="Image Alt Text" width="175px" margin="15px" >}}
+Currently in my fifth year at the University of Glasgow working towards a MSci in Computing Science. Throughout this period, my substantial dedication to deep learning (specifically deep Reinforcement Learning and Generative networks), Baysian networks and Markov models has translated into a high level of expertise in these domains. I have a strong passion for research and have actively engaged in various projects, contributing to the advancement of knowledge in computing science. 
 {{< /image-text >}}
 
+I believe in the power of collaboration and have actively participated in the open-source community. My contributions have ranged from enhancing existing projects to creating innovative solutions that benefit the broader tech community.
+
+
+>{{< download cv.pdf >}}Download resume{{< /download >}}
 
 #### Experience
 ---
