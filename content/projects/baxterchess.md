@@ -3,7 +3,7 @@ showonlyimage = false
 draft = false
 image = "projects/baxter.jpg"
 date = "2021-12-17T10:16:56+01:00"
-title = "Teaching Baxter robot to play chess"
+title = "Teaching the Baxter robot to play chess"
 weight = 9
 +++
 
