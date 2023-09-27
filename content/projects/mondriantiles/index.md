@@ -1,10 +1,10 @@
 +++
-showonlyimage = true
+showonlyimage = false
 draft = false
 image = "projects/mondriantile.jpg"
 date = "2022-12-08T10:16:56+01:00"
 title = "Mondrian tile problem solver"
-weight = 3
+weight = 5
 +++
 
 A solution to the challenging Mondrian Tile Problem, a classic problem in computational geometry.

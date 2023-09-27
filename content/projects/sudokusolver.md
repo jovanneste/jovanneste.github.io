@@ -4,7 +4,7 @@ draft = false
 image = "projects/sudoku.jpg"
 date = "2021-04-14T10:16:56+01:00"
 title = "Prolog soduko solver"
-weight = 7
+weight = 3
 +++
 
 Built a powerful Prolog-based Sudoku solver capable of tackling Sudoku puzzles of varying difficulty levels.
