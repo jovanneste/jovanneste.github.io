@@ -1,10 +1,10 @@
 +++
-showonlyimage = false
+showonlyimage = true
 draft = false
 image = "projects/threads.png"
 date = "2021-05-23T10:16:56+01:00"
 title = "Discovering C++ header dependencies"
-weight = 8
+weight = 12
 +++
 
 A multi-threaded solution to find dependencies in C++ files.
