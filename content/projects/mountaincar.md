@@ -10,7 +10,7 @@ weight = 5
 Built a Q-learning agent capable of completing the [mountain car game](https://www.gymlibrary.dev/environments/classic_control/mountain_car/). 
 <!--more-->
 
-> [View code on GitHub](https://github.com/jovanneste/mountainCarQLearningAgent)
+> [View code on GitHub](https://github.com/jovanneste/MountainCar-QAgent)
 
 ---
 

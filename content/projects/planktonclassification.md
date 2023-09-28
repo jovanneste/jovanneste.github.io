@@ -11,6 +11,7 @@ This project focused on developing a robust CNN-based solution capable of classi
 <!--more-->
 
 > [View code on Colab](https://colab.research.google.com/drive/1RNCGdTN7TkgZv5GmlzaXlacT2TucSDFB?usp=sharing)
+> [View code on GitHub](https://github.com/jovanneste/CNN-Plankton-Classification)
 
 ---
 
