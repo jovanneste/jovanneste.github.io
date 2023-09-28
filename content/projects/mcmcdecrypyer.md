@@ -10,7 +10,7 @@ weight = 2
 Using an advanced Markov Chain Monte Carlo sampling algorithm, I built an agent capable of decrypting encrypted texts. 
 <!--more-->
 
-> [View code on GitHub](https://github.com/jovanneste/MCMCDecrypter)
+> [View code on GitHub](https://github.com/jovanneste/MCMC-Decrypter)
 
 ---
 
