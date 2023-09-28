@@ -10,14 +10,14 @@ weight = 0
 This project aimed to create a model capable of detecting and explaining emotions in video advertisements. The final framework consists of two main stages: emotion detection and explanation generation. 
 <!--more--> 
 
-> [View code on GitHub](https://github.com/jovanneste/emotionClassificationFromVideos)
+> [View code on GitHub](https://github.com/jovanneste/Emotion-XAI-Videos)
 
 ---
 
 > This work was the basis of my fourth year university project[^1]. 
 
 #### Deep learning classification model
-The inital aim for this project was to create a model which, given an advertisement video, could classify the underlying emotions. This was achieved using a CNN which was trained on [Pitts dataset](https://people.cs.pitt.edu/~kovashka/ads/). More information on this model can be found [here](https://github.com/jovanneste/emotionClassificationFromVideos/tree/main/src/basicModel).
+The inital aim for this project was to create a model which, given an advertisement video, could classify the underlying emotions. This was achieved using a CNN which was trained on [Pitts dataset](https://people.cs.pitt.edu/~kovashka/ads/). More information on this model can be found [here](https://github.com/jovanneste/Emotion-XAI-Videos/tree/main/src/basicModel).
 
 
 #### Explainability 
