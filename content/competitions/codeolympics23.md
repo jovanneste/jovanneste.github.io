@@ -23,7 +23,7 @@ I improved my agent slightly by incorporating simulated annealing, a technique w
 
 My agent was tested against other people's implementations in a tournament-style game, eventually winning the competiton[^2].
 
-> [View code on GitHub](https://github.com/jovanneste/pigDiceQLearningAgent)
+> [View code on GitHub](https://github.com/jovanneste/PigDice-QAgent)
 
 ---
 
