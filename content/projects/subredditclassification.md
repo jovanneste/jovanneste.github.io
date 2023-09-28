@@ -7,7 +7,7 @@ title = "Subreddit classification"
 weight = 10
 +++
 
-Developed an NLP solution to automatically categorise Reddit posts into their most relevant subreddits
+Developed an NLP solution to automatically categorise Reddit posts into their most relevant subreddits.
 <!--more-->
 
 > [View code on GitHub](https://github.com/jovanneste/Subreddit-Classification)
