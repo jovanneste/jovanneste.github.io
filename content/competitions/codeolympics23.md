@@ -27,7 +27,7 @@ My agent was tested against other people's implementations in a tournament-style
 
 ---
 
-#### Challenge 2: Jake the snake 
+#### Challenge 2: Jake the snake
 This challenge involved creating an agent (Jake) capable of escaping a 2D maze in the shortest amount of time with no information on its surroundings. After trialing some BFS algorithms, I devloped a Q-learning solution where, at each step, the agent can move up, down, left or right. After training, the agent can successfully navigate the maze and escape quickly. 
 
 My agent was tested against other people's implementations in a series' of unseen mazes. With the quickest time to escape, my agent won the competition[^3].
