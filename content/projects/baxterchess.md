@@ -15,7 +15,7 @@ Build a model leveraging computer vision and machine learning techniques to teac
 ---
 
 #### Baxter
-Baxter is a two-arm robot used by University of Glasgow students for various robotics and MSc projects. It is most used for autonomous perception and manipulation of fabrics.
+Baxter is a two-arm robot used by University of Glasgow students for various robotics and MSc projects. It is mostly used for autonomous perception and manipulation of fabrics.
 
 #### Playing chess
 
