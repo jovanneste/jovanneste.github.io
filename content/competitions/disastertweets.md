@@ -4,7 +4,7 @@ draft = false
 image = "projects/hurricane.jpg"
 date = "2021-05-23T10:16:56+01:00"
 title = "Disaster tweet predictor - Kaggle competition"
-weight = 2
+weight = 3
 +++
 
 Developed and evaluated several NLP models to enter into a [Kaggle competition](https://www.kaggle.com/c/nlp-getting-started). 

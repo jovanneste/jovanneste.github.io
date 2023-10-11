@@ -4,7 +4,7 @@ draft = false
 image = "projects/connect4.png"
 date = "2021-05-23T10:16:56+01:00"
 title = "Connect 4 agent - Kaggle competition"
-weight = 4
+weight = 0
 +++
 
 Built a deep reinforcement learning agent capable of playing Connect 4 for a [Kaggle competition](https://www.kaggle.com/competitions/connectx). 
