@@ -1,9 +1,6 @@
 # Hugo output directory
 /public/
 
-# Hugo themes directory
-/themes/
-
 # Hugo static directory
 /static/
 
