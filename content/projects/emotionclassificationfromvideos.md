@@ -4,7 +4,7 @@ draft = false
 image = "projects/emotionclassification.png"
 date = "2023-03-24T10:16:56+01:00"
 title = "Detecting and explaining emotions in video advertisements"
-weight = 0
+weight = 2
 +++
 
 This project aimed to create a model capable of detecting and explaining emotions in video advertisements. The final framework consists of two main stages: emotion detection and explanation generation. 
@@ -26,7 +26,7 @@ To build on the classification model, I built a framework capable of explaining 
 
 The image below shows how the framework generates an output. We see here, for example, that the model found this minion falling over a chair to be the funniest part of [this video](https://www.youtube.com/watch?v=7IcGYHU8WBo).
 
-![image](/minions.png)
+![image](/projects/minionsfunny1.png)
 
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#)

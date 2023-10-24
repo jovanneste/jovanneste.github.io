@@ -5,11 +5,8 @@ title = "About me"
 
 ---
 
-{{< image-text image="me.jpg" alt="Image Alt Text" width="175px" margin="15px" >}}
-Currently in my fifth year at the University of Glasgow working towards an MSci in Computing Science. Throughout this period, my substantial dedication to deep learning (specifically deep reinforcement learning and generative networks), Bayesian networks and Markov models has translated into a high level of expertise in these domains. I have a strong passion for research and have actively engaged in various projects, contributing to the advancement of knowledge in computing science. 
-{{< /image-text >}}
 
-I believe in the power of collaboration and have actively participated in the open-source community. My contributions have ranged from enhancing existing projects to creating innovative solutions that benefit the broader tech community.
+Currently in my fifth year at the University of Glasgow working towards an MSci in Computing Science. Throughout this period, my substantial dedication to deep learning (specifically deep reinforcement learning and generative networks), Bayesian networks and Markov models has translated into a high level of expertise in these domains. I have a strong passion for research and have actively engaged in various projects, contributing to the advancement of knowledge in computing science. I believe in the power of collaboration and have actively participated in the open-source community. My contributions have ranged from enhancing existing projects to creating innovative solutions that benefit the broader tech community.
 
 
 >{{< download cv.pdf >}}Download resume{{< /download >}}
